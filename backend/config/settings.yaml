@@ -1,0 +1,11 @@
+general:
+  log_level: INFO
+  data_dir: data
+
+api:
+  timeout: 30
+  retry_attempts: 3
+
+ai:
+  min_profit_margin: 0.3
+  min_trend_score: 70
